@@ -1,0 +1,16 @@
+{
+    "custom_commands": {
+        "good morning": "Good morning! I hope you have a wonderful day ahead.",
+        "tell me a joke": "Why do programmers prefer dark mode? Because light attracts bugs."
+    },
+    "weather": {
+        "api_key": "PUT_YOUR_OPENWEATHERMAP_API_KEY_HERE_OR_LEAVE_BLANK_AND_USE_ENV_VAR",
+        "units": "metric"
+    },
+    "email": {
+        "smtp_host": "smtp.gmail.com",
+        "smtp_port": 465,
+        "from_address": "your.test.account@gmail.com",
+        "password_env_var": "ASSISTANT_EMAIL_PASSWORD"
+    }
+}
